@@ -29,8 +29,6 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c-obsesie&theme=merko)](https://git.io/streak-stats)
 
 ---
 
