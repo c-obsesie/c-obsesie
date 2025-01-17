@@ -2,7 +2,7 @@
   <h1> Hi 👋 I'm Cosmin Mihalache.</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/cosmin-mihalache-731557178/">
-      <img style="width:100px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge"/>
+      <img style="width:50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge"/>
     </a>
    
   </div>
