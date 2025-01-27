@@ -35,7 +35,7 @@
 
 <!-- Supabase -->
 <img
-  src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"
+  src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-plain-wordmark.svg"
   title="Supabase"
   alt="Supabase"
   width="40"
